@@ -1,4 +1,4 @@
-# 🧠 Task 4: Sentiment Analysis and Visualization of Social Media Data
+# Task 4: Sentiment Analysis and Visualization of Social Media Data
 
 Analyze and visualize sentiment patterns in social media data to understand public opinion and attitudes toward specific topics or brands.
 
